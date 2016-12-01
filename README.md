@@ -9,10 +9,9 @@ Credits for this work goes to ZUPA and all of the contributors past, present and
 We thank you for your hard work and authorization for hosting this custom modification on github for our community hosts to access.
 We hope you enjoy our changes!
 
+#ZCP for Exile
 
 Topic @ [Exile forums](http://www.exilemod.com/topic/12116-release-official-zcp-zupas-capture-points/)
-
-#ZCP for Exile
 
 ### Zupa's Capture Points
 > Latest Official version: 3.1  

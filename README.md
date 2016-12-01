@@ -1,13 +1,14 @@
-# ZCP-A3-Exile
+# ZCP-A3-eXpoch
 
-![Arma 1.66](https://img.shields.io/badge/Arma-1.66-blue.svg) ![Exile 1.0.2 Kohlrabi](https://img.shields.io/badge/Exile-1.0.2%20Kohlrabi-yellowgreen.svg) ![ZCP](https://img.shields.io/badge/ZCP-3.1-009E71.svg) ![ZCP Build](https://img.shields.io/badge/build-passing-brightgreen.svg) ![Build Status](https://img.shields.io/badge/Custom%20Build-passing-38AA38.svg) ![eXpochA4E Status](https://img.shields.io/badge/eXpochA4E-alpha-38AA38.svg) ![eXpochACE Status](https://img.shields.io/badge/eXpochACE-alpha-38AA38.svg)
-
-
-#ZCP for eXpoch
+![Arma 1.66](https://img.shields.io/badge/Arma-1.66-blue.svg) ![Exile 1.0.2 Kohlrabi](https://img.shields.io/badge/Exile-1.0.2%20Kohlrabi-yellowgreen.svg) ![ZCP](https://img.shields.io/badge/ZCP-Custom-009E71.svg) ![Build Status](https://img.shields.io/badge/Custom%20Build-passing-38AA38.svg) ![eXpochA4E Status](https://img.shields.io/badge/eXpochA4E-alpha-38AA38.svg) ![eXpochACE Status](https://img.shields.io/badge/eXpochACE-alpha-38AA38.svg)
 
 Credits for this work goes to ZUPA and all of the contributors past, present and future.
 We thank you for your hard work and authorization for hosting this custom modification on github for our community hosts to access.
 We hope you enjoy our changes!
+
+# ZCP-A3-Exile
+
+![Arma 1.66](https://img.shields.io/badge/Arma-1.66-blue.svg) ![Exile 1.0.2 Kohlrabi](https://img.shields.io/badge/Exile-1.0.2%20Kohlrabi-yellowgreen.svg) ![ZCP](https://img.shields.io/badge/ZCP-3.1-009E71.svg) ![ZCP Build](https://img.shields.io/badge/build-passing-brightgreen.svg) 
 
 #ZCP for Exile
 

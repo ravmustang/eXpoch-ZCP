@@ -1,4 +1,4 @@
-# ZCP-A3-eXpoch
+# ZCP-A3-Exile Customized for eXpochA4E
 
 ![Arma 1.66](https://img.shields.io/badge/Arma-1.66-blue.svg) ![Exile 1.0.2 Kohlrabi](https://img.shields.io/badge/Exile-1.0.2%20Kohlrabi-yellowgreen.svg) ![ZCP](https://img.shields.io/badge/ZCP-Custom-009E71.svg) ![Build Status](https://img.shields.io/badge/Custom%20Build-passing-38AA38.svg) ![eXpochA4E Status](https://img.shields.io/badge/eXpochA4E-alpha-38AA38.svg) ![eXpochACE Status](https://img.shields.io/badge/eXpochACE-alpha-38AA38.svg)
 

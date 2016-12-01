@@ -1,6 +1,6 @@
 # ZCP-A3-Exile
 
-![Arma 1.66](https://img.shields.io/badge/Arma-1.66-blue.svg) ![Exile 1.0.2 Kohlrabi](https://img.shields.io/badge/Exile-1.0.1%20Kohlrabi-C72651.svg) ![ZCP](https://img.shields.io/badge/ZCP-3.1-009E71.svg) ![ZCP Build](https://img.shields.io/badge/build-passing-brightgreen.svg) ![Build Status](https://img.shields.io/badge/Custom%20Build-passing-38AA38.svg) ![eXpochA4E Status](https://img.shields.io/badge/eXpochA4E-alpha-38AA38.svg) ![eXpochACE Status](https://img.shields.io/badge/eXpochACE-alpha-38AA38.svg)
+![Arma 1.66](https://img.shields.io/badge/Arma-1.66-blue.svg) ![Exile 1.0.2 Kohlrabi](https://img.shields.io/badge/Exile-1.0.2%20Kohlrabi-yellowgreen.svg) ![ZCP](https://img.shields.io/badge/ZCP-3.1-009E71.svg) ![ZCP Build](https://img.shields.io/badge/build-passing-brightgreen.svg) ![Build Status](https://img.shields.io/badge/Custom%20Build-passing-38AA38.svg) ![eXpochA4E Status](https://img.shields.io/badge/eXpochA4E-alpha-38AA38.svg) ![eXpochACE Status](https://img.shields.io/badge/eXpochACE-alpha-38AA38.svg)
 
 
 #ZCP for eXpoch

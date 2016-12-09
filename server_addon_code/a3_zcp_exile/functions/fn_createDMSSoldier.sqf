@@ -191,6 +191,8 @@ _ZCP_CDS_unitAI addMPEventHandler ["MPHit",'if (isServer) then
 		_hitby = _this select 1;
 		_unit setVariable["eXpochDMS_LastHitBy",_hitby];
 	};'];
+_ZCP_CDS_unitAI addEventHandler ["HandleDamage",{	_this call ace_medical_fnc_handleDamage}];	
+
 {
 	_ZCP_CDS_unitAI enableAI _x;
 } forEach ["TARGET", "AUTOTARGET", "MOVE", "ANIM", "FSM"];

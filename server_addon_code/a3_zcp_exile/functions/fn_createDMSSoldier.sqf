@@ -185,7 +185,12 @@ if !(_ZCP_CDS_soldierClass in DMS_ai_SupportedClasses) exitWith
 
 // Soldier killed event handler
 _ZCP_CDS_unitAI addMPEventHandler ["MPKilled",'if (isServer) then {_this call DMS_fnc_OnKilled;};'];
-
+_ZCP_CDS_unitAI addMPEventHandler ["MPHit",'if (isServer) then 
+	{
+		_unit = _this select 0;
+		_hitby = _this select 1;
+		_unit setVariable["eXpochDMS_LastHitBy",_hitby];
+	};'];
 {
 	_ZCP_CDS_unitAI enableAI _x;
 } forEach ["TARGET", "AUTOTARGET", "MOVE", "ANIM", "FSM"];

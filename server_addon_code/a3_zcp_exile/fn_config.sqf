@@ -18,7 +18,7 @@
 // Being first in the zone starts the timer.
 // Holding a zone  gives you a reward after x Min.
 
-ZCP_dev = true; // Devmode for shorter development capture times
+ZCP_dev = false; // Devmode for shorter development capture times
 
 ZCP_AI_Type = 'DMS'; // NONE | DMS | FUMS
 
@@ -42,7 +42,7 @@ ZCP_DMS_ExileToasts_Message_Font		= "PuristaLight";			// Exile Toasts font for "
 ZCP_AI_useLaunchersChance = 25; // %Change to spawn Launcher on AI soldier ( never exceeds the MIN and MAX defined per cappoint).
 
 // Put the following to -1 to disable it.
-ZCP_AI_killAIAfterMissionCompletionTimer = 60; // Amount of seconds before all ZCP AI get auto killed after a mission is completed. ( DMS only ).
+ZCP_AI_killAIAfterMissionCompletionTimer = 360; // Amount of seconds before all ZCP AI get auto killed after a mission is completed. ( DMS only ).
 
 // ZCP_Min_AI_Amount = 4; Not used anymore
 // ZCP_Random_AI_Max = 8; Not used anymore
@@ -53,7 +53,7 @@ ZCP_MessagePlayersBeforeWaves = true; // True -> Inform for an icoming wave of A
 ZCP_ServerStartWaitTime = 120;
 ZCP_MinWaitTime = 120; // seconds to wait to spawn a new capturepoint when 1 was capped.
 ZCP_MaxWaitTime = 120; // random between 0 and THIS number added to the ZCP_MinWaitTime to counter spawning points at the same time
-ZCP_BaseCleanupDelay = 180; // seconds to wait to delete a captured base.
+ZCP_BaseCleanupDelay = 360; // seconds to wait to delete a captured base.
 
 ZCP_RewardRelativeToPlayersOnline = true; // This will recalculate the crypto reward according the amount of online players.
 ZCP_PoptabReward = 25; // Poptab reward for capping per player online. ( When poptab reward is selected or randomly chosen ).

@@ -35,7 +35,8 @@ if(isPlayer _ZCP_GR_currentCapper)then
 	{
 		private _group = group _ZCP_GR_currentCapper;
 		private _members = units _group;
-			if ((count _members)>1) then
+		_newWeinerCaptures = _ZCP_GR_currentCapper getVariable ["ExileZCP", 0];
+		if ((count _members)>1) then
 		{
 			private _msg = format
 			[

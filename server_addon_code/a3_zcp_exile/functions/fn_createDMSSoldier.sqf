@@ -216,6 +216,8 @@ _ZCP_CDS_unitAI setVariable ["DMS_AI_Type", "Soldier"];
 _ZCP_CDS_unitAI setVariable ["DMS_AISpawnPos",_ZCP_CDS_spawnAIPos];
 _ZCP_CDS_unitAI setVariable ["DMS_LastAIDistanceCheck",time];
 
+_ZCP_CDS_unitAI triggerDynamicSimulation false;
+
 // Set money/respect variables
 _ZCP_CDS_unitAI setVariable
 [
